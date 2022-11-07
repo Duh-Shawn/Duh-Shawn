@@ -7,6 +7,7 @@ I have earned a B.S. in Computer Engineering with a minor in Computer Science.
 I also hold an active GWAPT (GIAC Web Application Penetration Tester) certification.
 
 🔭 I’m currently working on The Odin Project
+
 🌱 I’m currently learning Full Stack Javascript
 
 ### :wrench: Tools and Technologies:
