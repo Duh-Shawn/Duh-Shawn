@@ -1,14 +1,20 @@
 ### Hi there! 👋
 
+
+
 My name is De'Shawn and I am an Application Security professional by day and Software Engineer by night.
 
 I have earned a B.S. in Computer Engineering with a minor in Computer Science. 
 
 I also hold an active GWAPT (GIAC Web Application Penetration Tester) certification.
 
+
+
 🔭 I’m currently working on The Odin Project
 
 🌱 I’m currently learning Full Stack Javascript
+
+
 
 ### :wrench: Tools and Technologies:
   * BurpSuite
