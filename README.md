@@ -1,9 +1,21 @@
 ### Hi there! 👋
 
-My name is De'Shawn and I am a Application Security professional holding a B.S. in Computer Engineering with a minor in Computer Science. I am currently working through the ODIN PROJECT to improve my web development skills and keep computer science concepts sharp.
+My name is De'Shawn and I am an Application Security professional by day and Software Engineer by night.
+
+I have earned a B.S. in Computer Engineering with a minor in Computer Science. 
+
+I also hold an active GWAPT (GIAC Web Application Penetration Tester) certification.
+
+🔭 I’m currently working on The Odin Project
+🌱 I’m currently learning Full Stack Javascript
 
 ### :wrench: Tools and Technologies:
-HTML5	CSS3 JavaScript Git	
+BurpSuite
+HTML5	
+CSS3 
+JavaScript 
+Git
+BurpSuite
 
 <!--
 **Duh-Shawn/Duh-Shawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
