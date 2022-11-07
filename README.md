@@ -10,12 +10,12 @@ I also hold an active GWAPT (GIAC Web Application Penetration Tester) certificat
 🌱 I’m currently learning Full Stack Javascript
 
 ### :wrench: Tools and Technologies:
-*BurpSuite
-*HTML5	
-*CSS3 
-*JavaScript 
-*Git
-*BurpSuite
+  * BurpSuite
+  * HTML5	
+  * CSS3 
+  * JavaScript 
+  * Git
+  * BurpSuite
 
 <!--
 **Duh-Shawn/Duh-Shawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
