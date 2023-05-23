@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is De'Shawn - I am an Application Security professional by day and Software Engineer by night.
+My name is De'Shawn - I am an application security professional by day and software engineer by night.
 
 
 🔭 I’m currently working on The Odin Project
