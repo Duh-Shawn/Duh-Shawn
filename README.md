@@ -1,12 +1,8 @@
 ### Hi there! 👋
 
-My name is De'Shawn - I am an application security professional by day and software engineer by night.
+My name is De'Shawn - I am a technology professional that is constantly practicing to stay up to date on the latest trends
 
-
-🔭 I’m currently working on The Odin Project
-
-🌱 I’m currently learning Full Stack Javascript
-
+Software / Systems / AppSec Engineer
 
 <!--
 **Duh-Shawn/Duh-Shawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
