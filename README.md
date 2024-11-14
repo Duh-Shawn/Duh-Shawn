@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is De'Shawn - I am a technology professional that is constantly practicing to stay up to date on the latest trends
+I'm De'Shawn, a technology professional dedicated to staying current with the latest trends through continuous learning and practice.
 
 Software / Systems / AppSec Engineer
 
